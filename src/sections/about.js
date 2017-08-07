@@ -2,7 +2,7 @@ import React from "react"
 
 function AboutMe (props) {
   return (
-    <section className="section-aboutme">
+    <section className="section-aboutme" name="about-me">
       <div className="info">
         <ul>{renderSidebarItems(props.sidebar)}</ul>
         <img src="/images/family.jpg" style={{ width: "100%", height: "auto" }} />
