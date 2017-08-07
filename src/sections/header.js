@@ -7,6 +7,7 @@ function Header (props) {
       <div className="title">{props.title}</div>
       <div className="sub-title">{props.subtitle}</div>
       {renderHeaderDetails(props.details)}
+      {renderSocial({ rg: props.rg, youtube: props.youtube, linkedin: props.linkedin })}
     </header>
   )
 }
@@ -27,6 +28,16 @@ function renderHeaderDetailTexts (texts) {
       <div key={idx}>{text}</div>
     )
   })
+}
+
+function renderSocial ({ rg, youtube, linkedin }) {
+  return (
+    <div className="social">
+      <a href={linkedin}><i className="fa fa-linkedin"></i></a>
+      <a href={rg}><i className="ai ai-researchgate"></i></a>
+      <a href={youtube}><i className="fa fa-youtube"></i></a>
+    </div>
+  )
 }
 
 export default Header

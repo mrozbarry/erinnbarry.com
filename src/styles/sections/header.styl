@@ -2,6 +2,11 @@
   min-height: 100%
   background-color: purple
   color: white
+  overflow: hidden
+  display: flex
+  flex-direction: column
+  align-items: center
+  justify-content: center
 
   /* HEY YOU! Put the gradient here (remove the semi-colons, what are we? animals?): */
   /* Also, this is where I nabbed this gradient: https://uigradients.com/ */
@@ -13,10 +18,10 @@
   /* That's enough gradient */
 
   .profile-image
-    width: 300px
-    height: 300px
+    width: 280px
+    height: 280px
     border-radius: 50%
-    margin: 32px auto
+    margin-bottom: 32px
     background-size: cover
 
   .title
@@ -33,8 +38,20 @@
   .sub-title
     text-align: center
     font-size: 16px
-  
+
   .details
     text-align: center
     margin: 16px 0
     font-size: 16px
+
+  .social
+    display: flex
+    flex-direction: row
+    align-items: center
+    justify-content: center
+    font-size: 32px
+
+    a
+      color: white
+      text-decoration: none
+      margin: 0 8px
