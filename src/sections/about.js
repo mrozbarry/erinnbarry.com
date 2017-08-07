@@ -4,8 +4,8 @@ function AboutMe (props) {
   return (
     <section className="section-aboutme" name="about-me">
       <div className="info">
-        <ul>{renderSidebarItems(props.sidebar)}</ul>
         <img src="/images/family.jpg" style={{ width: "100%", height: "auto" }} />
+          <ul>{renderSidebarItems(props.sidebar)}</ul>
       </div>
       <div className="content" dangerouslySetInnerHTML={{ __html: props.html }}></div>
     </section>
