@@ -1,4 +1,31 @@
 -
-  filename: somefile.pdf
-  title: Title of Paper
-  subtitle: Literature Review
+  filename: animalism.pdf
+  title: Persons, Selves, and Identity
+  subtitle: Animalism vs. Neo-Lockeanism
+
+-
+
+  filename: camus.pdf
+  title: Existentialism
+  subtitle: "Myth of Sisyphus: The Absurd Hero"
+
+-
+  filename: cognitive-report.pdf
+  title: Cognitive Psychology - Lab Report
+  subtitle: Word Frquency and Word Recognition 
+
+-
+  filename: memory-illusions.pdf
+  title: Cognitive Psychology - Literature Review
+  subtitle: Illusions of Memory 
+
+-
+
+  filename: velleman.pdf
+  title: The Metaphysics of Death
+  subtitle: Luper-Foy vs. Velleman 
+
+-
+  filename: wittgenstein.pdf
+  title: Wittgenstein 
+  subtitle: Rule Following and Language 
