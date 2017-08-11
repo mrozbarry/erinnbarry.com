@@ -16,7 +16,7 @@ function renderSidebarItems (sidebar) {
   return sidebar.map(([name, value], idx) => {
     const valueContent =
       Array.isArray(value) ?
-      value.map((item) => <div>{item}</div>) :
+      value.map((item, subidx) => <div key={subidx}>{item}</div>) :
       value
 
     return (
