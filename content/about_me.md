@@ -1,6 +1,6 @@
 # About Me
 
-I am a soon to be graduate of Wilfrid Laurier University - and am in the process of applying to graduate school - with the hopes of entering a Clinical Psychology (or related) field. I have been married to my wonderful husband, a software developer, since 2011. We are the loving owners of a retired service dog, named Harley, from the National Service Dogs Charity.  <br/>
+I will soon be graduating with an Honours BA from Wilfrid Laurier University, and am currently in the process of applying to graduate school. I hope to enter a Clinical Psychology (or related) field, with an emphasis on psychology research. I have been married to my wonderful husband, a [LINK] software developer, since 2011. We are the loving owners of a retired service dog, named Harley, from the National Service Dogs Charity. In my spare time, I enjoy playing the piano, particularly the works of Chopin and Rachmaninoff. If you wish, you may visit my personal YouTube page (see above for the link) for various piano related videos.  <br/>
 
 
 # Research Interests
