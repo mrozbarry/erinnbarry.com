@@ -1,5 +1,7 @@
 -
   section: Research Experience
+  icon: calendar-o
+
   children:
     -
       title: Research Assistant in Developmental Psychology (Volunteer)
@@ -28,6 +30,7 @@
   
 -
   section: Education and Academic Highlights
+  icon: graduation-cap
 
   children:
     -
