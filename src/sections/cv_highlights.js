@@ -70,10 +70,17 @@ function CvHighlightSection (idx, section) {
 function CvHighlightEvent (idx, event) {
   return (
     <li key={idx} className={`highlight highlight--${event.side}`}>
-      <div className="highlight-title">{event.title}</div>
-      <div className="highlight-dates">{event.dates}</div>
-      <div className="highlight-subtitle">{event.subtitle}</div>
-      <div className="highlight-description">{event.description}</div>
+      <div className="highlight-wrapper">
+        <div className="highlight-icon">
+          <span className="fa fa-calendar-o" />
+        </div>
+        <div className="highlight-content">
+          <div className="highlight-title">{event.title}</div>
+          <div className="highlight-dates">{event.dates}</div>
+          <div className="highlight-subtitle">{event.subtitle}</div>
+          <div className="highlight-description">{event.description}</div>
+        </div>
+      </div>
     </li>
   )
 }

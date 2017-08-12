@@ -23,16 +23,19 @@
       display: none
 
 .highlight
-  padding: 8px
-  background-color: white
   z-index: 2
-  width: 40%
-  overflow: hidden
+  width: calc(50% + 32px)
   margin: 32px 0
 
   &--left
     align-self: flex-start
     text-align: right
+
+    .highlight-icon
+      order: 2
+
+    .highlight-content
+      order: 1
 
   &--right
     align-self: flex-end
@@ -43,6 +46,36 @@
     margin-left: 64px
     width: calc(100% - 64px)
     text-align: left
+
+  &-wrapper
+    padding: 8px
+    display: flex
+    flex-direction: row
+    flex-wrap: nowrap
+    align-items: flex-start
+    justify-content: flex-start
+
+  &-icon
+    width: 64px
+    flex-shrink: 0
+    flex-grow: 0
+    display: flex
+    align-items: center
+    justify-content: center
+    text-align: center
+
+    span.fa
+      color: white
+      background-color: purple
+      font-size: 24px
+      padding: 8px
+      border-radius: 50%
+      width: 48px
+      height: 48px
+
+  &-content
+    flex-grow: 1
+    background-color: white
   
   &-title
     font-family: "Space Mono", Arial, serif
@@ -50,6 +83,25 @@
     font-weight: 400
     line-height: 1.1
 
+  &-dates
+    font-family: "Space Mono", Arial, serif
+    font-size: 24px
+    font-weight: 400
+    line-height: 1.1
+    margin-bottom: 20px
+
+  &-subtitle
+    font-family: "Space Mono", Arial, serif
+    font-size: 16px
+    line-height: 1.7
+    color: #BFBFBF
+    margin-bottom: 20px
+
+  &-description
+    font-family: "Space Mono", Arial, serif
+    font-size: 16px
+    line-height: 1.7
+    color: #4D4D4D
 
   &-section
     font-family: "Space Mono", Arial, serif
