@@ -13,14 +13,12 @@ import cvHighlights from "../content/cv_highlights.yaml"
 
 require("./styles/index.styl")
 
-console.log(cvHighlights)
-
 function ErinnBarry (props) {
   return (
     <div style={{ minHeight: "100%", height: "100%" }}>
       <Header {...Object.assign({}, headerData, socialLinks)} />
       <AboutMe html={aboutMeContent} sidebar={aboutMeSidebar} />
-      <CvHighlights />
+      <CvHighlights sections={cvHighlights} />
     </div>
   )
 }
