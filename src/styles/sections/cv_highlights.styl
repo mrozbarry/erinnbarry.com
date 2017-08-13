@@ -16,7 +16,7 @@
     bottom: 0
     width: 1px
     content: " "
-    border-left: 1px black solid
+    border-left: 1px gradient-primary solid
     z-index: 1
 
     @media screen and (max-width: mobile-breakpoint)
@@ -48,7 +48,6 @@
     text-align: left
 
   &-wrapper
-    padding: 8px
     display: flex
     flex-direction: row
     flex-wrap: nowrap
@@ -59,23 +58,24 @@
     width: 64px
     flex-shrink: 0
     flex-grow: 0
-    display: flex
-    align-items: center
-    justify-content: center
-    text-align: center
 
     span.fa
       color: white
-      background-color: purple
+      background-color: gradient-secondary
       font-size: 24px
-      padding: 8px
       border-radius: 50%
-      width: 48px
-      height: 48px
+      width: 64px
+      height: 64px
+      display: flex
+      flex-direction: column
+      align-items: center
+      justify-content: center
+      text-align: center
 
   &-content
     flex-grow: 1
     background-color: white
+    padding: 0 8px
   
   &-title
     font-family: "Space Mono", Arial, serif
