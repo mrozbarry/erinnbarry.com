@@ -61,8 +61,6 @@ My research interests are varied and tend to change over time, but I am currentl
  - Honours Thesis in Developmental Psychology (A+)
  - Directed Study: Internship (A+)
 
-<br/>
-
 # <u> Philosophy Minor </u>
 
 ### Epistemology and Metaphysics

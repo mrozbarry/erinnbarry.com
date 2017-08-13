@@ -3,7 +3,7 @@ import React from "react"
 function CvHighlights (props) {
   const flattened = flattenSections(props.sections)
   return (
-    <div style={{ textAlign: "center" }}>
+    <div style={{ textAlign: "center", marginTop: "64px" }}>
       <h1>CV Highlights</h1>
 
       <div>(See linked CV (above) for complete details)</div>
