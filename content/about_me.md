@@ -20,7 +20,7 @@ My research interests are varied and tend to change over time, but I am currentl
 
  <br/> <br/>
 
-*Please see [my CV](#) for further details.* 
+*Please see [my CV](/Barry-CV.pdf) for further details.* 
 
 <br/>
 
