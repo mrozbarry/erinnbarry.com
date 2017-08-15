@@ -86,12 +86,35 @@ function cvHighlightEvent (idx, event) {
         <div className="highlight-content">
           <div className="highlight-title">{title}</div>
           <div className="highlight-dates">{event.dates}</div>
-          <div className="highlight-subtitle">{event.subtitle}</div>
-          <div className="highlight-description">{event.description}</div>
+					{cvHighlightEventSubtitle(event.subtitle)}
+					{cvHighlightEventSubtitle(event.location)}
+					{cvHighlightEventDescription(event.description)}
         </div>
       </div>
     </li>
   )
+}
+
+
+function cvHighlightEventSubtitle (subtitle) {
+	if (subtitle) {
+		return <div className="highlight-subtitle">{subtitle}</div>
+	} else {
+		return null
+	}
+
+}
+
+
+function cvHighlightEventDescription (description) {
+	if (Array.isArray(description)) {
+		return description.map((desc, idx) => {
+			return <div key={idx} className="highlight-description">{desc}</div>
+		})
+	} else {
+		return <div className="highlight-description">{description}</div>
+	}
+
 }
 
 
