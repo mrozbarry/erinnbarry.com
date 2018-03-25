@@ -20,7 +20,7 @@ function ErinnBarry (props) {
     <div style={{ minHeight: "100%", height: "100%" }}>
       <Header {...Object.assign({}, headerData, socialLinks)} />
       <AboutMe html={aboutMeContent} sidebar={aboutMeSidebar} />
-      <CvHighlights sections={cvHighlights} />
+      {/*<CvHighlights sections={cvHighlights} />*/}
 			<WritingSamples samples={writingSamples} />
     </div>
   )
