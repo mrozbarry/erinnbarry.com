@@ -1,20 +1,21 @@
-## About Me
-
-I will be graduating with an Honours BA in Psychology (Research Specialist) from Wilfrid Laurier University (WLU) in June 2018, and will be pursuing an MA in Developmental Psychology in September 2018 (also at WLU). I am particularly interested in cognitive and behavioural assessment procedures, and hope to enter a related career field.
+## ABOUT ME 
+I recently graduated with an Honours BA in Psychology (Research Specialist) (with high distinction) from Wilfrid Laurier University (WLU), and am currently pursuing an MA in Developmental Psychology also at WLU. Up to this point, under the supervision of [Dr. Nicky Newton](http://pandalab.ca), my honours research has focused primarily on personal identity formation and the proposed female autism phenotype. 
 
 <br> Thank you to my wonderful [husband](http://mrbarry.com) for helping me create this website! Alex and I have been married since 2011, and are the loving owners of a retired service dog, named Harley. In my spare time, I enjoy playing the piano, reading, and experimenting with photography. If you wish, you may visit my personal YouTube page (see above for the link) for various piano related videos.  <br/>
 
+<br>
+
+
+# RESEARCH INTERESTS
+My research interests are varied and tend to change over time, but I am currently interested in: high functioning autism (i.e., Asperger's Syndrome), the proposed female autism phenotype, personal identity formation (e.g., Marcia, Erikson, etc.) , psychopathology, psychometrics, abnormal behaviour, terror management theory, and topics relating to forensic psychology (e.g., false testimony, memory, malingering, etc.). 
+
+
 <br/>
-# Research Interests
+# ACDEMIC HIGHLIGHTS
 
-My research interests are varied and tend to change over time, but I am currently interested in: resilience, high functioning autism (i.e., Asperger's Syndrome), the proposed female autism phenotype, personal identity formation, psychopathology, psychometrics, Borderline Personality Disorder (in males), eating disorders, terror management theory, and topics relating to forensic psychology (e.g., false testimony, memory, malingering, etc.). 
+ - Awarded an Ontario Graduate Scholarship (OGS) to pursue graduate studies at Wilfrid Laurier University, valued at $15,000 (2018-2019)
 
-If you are interested, I recently conducted a study examining personal identity formation in individuals diagnosed with (or self-identify as having) an Autism Spectrum Disorder. Participants received [this brief report](/EB-Report-Vs3.pdf). <br/>
-
-<br/>
-# Academic Highlights
-
- - Awarded two Research Assistant Scholarships from the Faculty of Science Students' Association, valued at $1,000 each (Fall 2017 and Winter 2018)
+ - Awarded Dean of Graduate and Postdoctoral Studies Scholarship, valued at $5,000 (2018-2019)
 
  - Awarded the Women in Science: Hypatia Award for honours thesis project, valued at $500 (Summer 2017)
 
@@ -22,20 +23,24 @@ If you are interested, I recently conducted a study examining personal identity 
 
  - Top of CP102 (Information Processing with Microcomputer Systems) class of over 800 students, with an average of 100% (Winter 2014)
 
- - During my time at Laurier, I have been involved in a handful of conference presentations, and am the co-author of 1 research article (under the supervision of Dr. Ciann Wilson from Wilfrid Laurier University), that is currently under review.
+ - During my time at Laurier, I have been involved in a handful of conference presentations, and am the co-author of 1 research article that is currently under review.
+
+ - I recently conducted a study examining personal identity formation in individuals diagnosed with (or self-identify as having) an Autism Spectrum Disorder. Participants received [this brief report](/EB-Report-Vs3.pdf). 
+
 
 <br/> 
-### *Please see [my CV](/Barry-CV.pdf) for further details.* 
+## *Please see [my CV](/Barry-CV.pdf) for further details of past projects.* 
+ 		** last updated June 2018 **
 
-	 ** last updated Feb. 2018 **
 
+	
 <br/> <br/>
 
 
-# Highlights of Relevant Courses
+# HIGLIGHTS OF RELEVANT COURSES
 
 
-## <u>Psychology Major</u>
+## <u>PSYCHOLOGY MAJOR</u>
 
 ### Specific Topics
 
@@ -64,19 +69,13 @@ If you are interested, I recently conducted a study examining personal identity 
 
 ### Independent Studies
 
- - Directed Study (2017-2018): 
- 		- Self-Identity & Autism I (PS490A) 
- 		- Self-Identity & Autism II (PS490S) 
+ - Supervised Study (2017-2018): Self-Identity & Autism I and II (PS490A & PS490S)
+ - Honours Thesis in Developmental Psychology (2016-2017): Investigating How Individuals with Autistic Traits Develop Personal Identities (PS499)
+ - Supervised Study: CCRLA Internship (2015-2016): Experiences and Perspectives of Youth Program Leaders in Service Provision to Girls in Waterloo Region (PS490X & PS490P)
 
- - Honours Thesis in Developmental Psychology (2016-2017)
- 		- Fall (PS499)
- 		- Winter (PS499)
- 	 
- - Directed Study: CCRLA Internship (2015-2016)
- 		- Fall (PS490X) 
- 		- Winter (PS490P) 
 
-## <u> Philosophy Minor </u>
+
+## <u> PHILOSOPHY MINOR </u>
 
 ### Epistemology and Metaphysics
 
@@ -87,7 +86,7 @@ If you are interested, I recently conducted a study examining personal identity 
  - Theories of Reality (PP229)
  - Seminar: The Metaphysics of Death (PP470S) 
 
-### 20th Century Philosophy and Other
+### 20th Century and Other Philosophy Courses
 
  - Formal / Analytic Logic (First-order Logic) (PP204) 
  - Existentialism (PP218) 
