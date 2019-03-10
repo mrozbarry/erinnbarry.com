@@ -7,7 +7,7 @@ function Header (props) {
       <div className="profile-image" style={{ backgroundImage: "url(/images/erinnbarry.jpg)"}}></div>
       <div className="title">{props.title}</div>
       <div className="sub-title">{props.subtitle}</div>
-      {renderHeaderDetails(props.details)}
+      {/*renderHeaderDetails(props.details)*/}
       {renderSocial({ rg: props.rg, youtube: props.youtube, linkedin: props.linkedin })}
       <div style={{ flexGrow: 1 }} />
       <a href="#about-me" style={{ marginBottom: "32px", color: "white" }}>
