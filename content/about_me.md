@@ -1,5 +1,5 @@
 ## ABOUT ME 
-I am a graduate student in [Developmental Psychology](http://pandalab.ca), currently pursuing my PhD. I graduated with my BA in Psychology (Research Specialist) with a Minor in philosophy (high distinction) in 2018, and will be graduating with my MA in 2019. 
+I am a graduate student in [Developmental Psychology](http://pandalab.ca), pursuing my PhD Fall 2019. I graduated with my BA  Psychology (Research Specialist) with a Minor in Philosophy (high distinction) in 2018, and will be defending my MA in Summer 2019. 
 
 
 <br>
@@ -10,6 +10,9 @@ Up to this point, my research has focused on personal identity formation (i.e., 
 
 <br/>
 # ACADEMIC HIGHLIGHTS
+
+
+ - Awarded Canadian Graduate Scholarship - Masters (CGS-M), valued at $17,500 (2019-2020)
 
  - Awarded an Ontario Graduate Scholarship (OGS) to pursue graduate studies at Wilfrid Laurier University, valued at $15,000 (2018-2019)
 
@@ -46,7 +49,6 @@ Up to this point, my research has focused on personal identity formation (i.e., 
  - Community Psychology (PS282) 
  - Clinical Psychology (PS381) 
  - History of Psychology (PS390) 
- - Assessment (TH663Y)
 
 ### Statistics and Research Methods Courses
 
@@ -56,6 +58,7 @@ Up to this point, my research has focused on personal identity formation (i.e., 
  - Analysis of Variance (PS395) 
  - Advanced Behavioural Statistics I (PS600)
  - Advanced Behavioural Statistics II (PS601)
+ - Assessment (TH663Y)
 
 ### Senior Research and Seminar Courses
 
@@ -63,8 +66,8 @@ Up to this point, my research has focused on personal identity formation (i.e., 
  - Research: Social Psychology (PS370) 
  - Seminar: Cognitive Psychology (PS460)
  - Seminar: Personality & Abnormal Psychology (PS480) 
- - Seminar in Developmental Psychology (PS679)
- - Seminar in Developmental Psychology (PS675)
+ - Seminar: Developmental Psychology (PS679)
+ - Seminar: Developmental Psychology (PS675)
 
 ### Independent Studies
 
