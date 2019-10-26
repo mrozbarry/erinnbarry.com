@@ -18,19 +18,15 @@
   filename: autism-report-barry.pdf
   title: Autism Study (Report)
   subtitle: Participant report for supervised study (2017-2018) 
--
-  filename: animalism.pdf
-  title: Persons, Selves, and Identity
-  subtitle: Animalism vs. Neo-Lockeanism
--
-  filename: camus.pdf
-  title: Existentialism
-  subtitle: "Myth of Sisyphus: The Absurd Hero"
--
-  filename: memory-illusions.pdf
-  title: Cognitive Psychology - Literature Review
-  subtitle: Illusions of Memory 
--
-  filename: velleman.pdf
-  title: The Metaphysics of Death
-  subtitle: Luper-Foy vs. Velleman 
+
+- filename: NHT-critique.pdf
+  title: Critique of Null Hypothesis Testting 
+  subtitle: Null Hypothesis Testing versus Bayesian Hypothesis Testing 
+
+- filename: significance-value-debate.pdf
+  title: Critique of .05 Significance Value
+  subtitle: <.05 Significance Value versus <.005
+
+- filename: PS675-Proposal.pdf
+  title: Graduate-Level Research PS675-Proposal
+  subtitle: Autism, Empathy, and Theory of Mind Over Time - Does Gender Make a Difference?

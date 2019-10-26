@@ -1,18 +1,17 @@
 ## ABOUT ME 
-I am a graduate student in [Developmental Psychology](http://pandalab.ca), pursuing my PhD Fall 2019. I graduated with my BA  Psychology (Research Specialist) with a Minor in Philosophy (high distinction) in 2018, and will be defending my MA in Summer 2019. 
+I recently graduated with a Master of Arts in Psychology with high distinction. Previously, I graduated with an Honours Bachelor of Arts in Psychology (Concentration: Research Specialist), with a Minor in Philosophy. I am currently pursuing a career in research or a related field (e.g., psychometrics).
 
+My [husband](https://www.mrbarry.com/), a software developer, and I have been married for 8 years. We recently purchased our first home and have been enjoying living in the country with our 2 dogs, Harley and Rufus.
+
+Thank you for visiting my professional website! I am interested in all opportunities that present themselves to me, so feel free to reach out if you'd like!
 
 <br>
-
-# RESEARCH INTERESTS
-Up to this point, my research has focused on personal identity formation (i.e., Marcia) and aspects of the proposed female autism phenotype. I am also interested in psychopathology, psychometrics, abnormal behaviour, personality, terror management theory, and topics relating to forensic psychology (e.g., false testimony, memory, malingering, etc.). 
 
 
 <br/>
 # ACADEMIC HIGHLIGHTS
 
-
- - Awarded Canadian Graduate Scholarship - Masters (CGS-M), valued at $17,500 (2019-2020)
+ - Awarded Canadian Graduate Scholarship - Masters (CGS-M), valued at $17,500 (2019)
 
  - Awarded an Ontario Graduate Scholarship (OGS) to pursue graduate studies at Wilfrid Laurier University, valued at $15,000 (2018-2019)
 
@@ -22,22 +21,16 @@ Up to this point, my research has focused on personal identity formation (i.e., 
 
  - Awarded NSERC Undergraduate Student Research Assistantship (USRA), valued at $5,625 (Summer 2015)
 
- - I recently conducted a study examining personal identity formation in individuals diagnosed with (or self-identify as having) an Autism Spectrum Disorder. Participants received [this brief report](/EB-Report-Vs3.pdf). 
-
 
 <br/> 
-## *Please see [my CV](/Barry-CV.pdf) for further details of past projects.* 
- 		** last updated March 2019 **
-
-
-	
-<br/> <br/>
+## *Please see [my CV](/Barry-CV.pdf) for details of past projects* 
+ 		** last updated October 2019 **
 
 
 # HIGLIGHTS OF RELEVANT COURSES
+<br/>
 
-
-## <u>PSYCHOLOGY MAJOR</u>
+## <u>PSYCHOLOGY</u>
 
 ### Specific Topics
 
@@ -49,6 +42,7 @@ Up to this point, my research has focused on personal identity formation (i.e., 
  - Community Psychology (PS282) 
  - Clinical Psychology (PS381) 
  - History of Psychology (PS390) 
+ - Assessment (TH663Y)
 
 ### Statistics and Research Methods Courses
 
@@ -58,7 +52,6 @@ Up to this point, my research has focused on personal identity formation (i.e., 
  - Analysis of Variance (PS395) 
  - Advanced Behavioural Statistics I (PS600)
  - Advanced Behavioural Statistics II (PS601)
- - Assessment (TH663Y)
 
 ### Senior Research and Seminar Courses
 
@@ -69,15 +62,16 @@ Up to this point, my research has focused on personal identity formation (i.e., 
  - Seminar: Developmental Psychology (PS679)
  - Seminar: Developmental Psychology (PS675)
 
-### Independent Studies
+### Research Projects
 
+ - Master's Thesis (PS699)
  - Self-Identity & Autism I (PS490A) & II (PS490S)
  - Honours Thesis: Investigating How Individuals with Autistic Traits Develop Personal Identities (PS499)
  - CCRLA Internship: Experiences and Perspectives of Youth Program Leaders in Service Provision to Girls in Waterloo Region (PS490X) & (PS490P)
 
+<br/>
 
-
-## <u> PHILOSOPHY MINOR </u>
+## <u> PHILOSOPHY </u>
 
 ### Epistemology and Metaphysics
 
