@@ -1,5 +1,5 @@
 ## ABOUT ME 
-I recently graduated with a Master of Arts in Psychology with high distinction. Previously, I graduated with an Honours Bachelor of Arts in Psychology (Concentration: Research Specialist), with a Minor in Philosophy. I am currently pursuing a career in research or a related field (e.g., psychometrics).
+I recently graduated with a Master of Arts in Psychology with high distinction. Previously, I graduated with an Honours Bachelor of Arts in Psychology (Concentration: Research Specialist), with a Minor in Philosophy. I am currently pursuing a career in research or in a related field  (e.g., article editing).
 
 My [husband](https://www.mrbarry.com/), a software developer, and I have been married for 8 years. We recently purchased our first home and have been enjoying living in the country with our 2 dogs, Harley and Rufus.
 
@@ -9,17 +9,16 @@ Thank you for visiting my professional website! I am interested in all opportuni
 
 
 <br/>
-# ACADEMIC HIGHLIGHTS
+# CAREER HIGHLIGHTS
+
+ - Peer reviewer for the Journal of Autism and Developmental Disorders
+
+ - Published in the peer reviewed journal, Critical Social Work, as co-first author
 
  - Awarded Canadian Graduate Scholarship - Masters (CGS-M), valued at $17,500 (2019)
 
  - Awarded an Ontario Graduate Scholarship (OGS) to pursue graduate studies at Wilfrid Laurier University, valued at $15,000 (2018-2019)
 
- - Awarded Dean of Graduate and Postdoctoral Studies Scholarship, valued at $5,000 (2018-2019)
-
- - Awarded the Women in Science: Hypatia Award for honours thesis project, valued at $500 (Summer 2017)
-
- - Awarded NSERC Undergraduate Student Research Assistantship (USRA), valued at $5,625 (Summer 2015)
 
 
 <br/> 
