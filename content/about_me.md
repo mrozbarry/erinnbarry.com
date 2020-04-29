@@ -1,9 +1,11 @@
 ## ABOUT ME 
-I recently graduated with a Master of Arts in Psychology with high distinction. Previously, I graduated with an Honours Bachelor of Arts in Psychology (Concentration: Research Specialist), with a Minor in Philosophy. I am currently pursuing a career in research or in a related field  (e.g., article editing).
+I graduated with a Master of Arts degree in Psychology (thesis based) in 2019. Previously, I graduated with an Honours Bachelor of Arts degree in Psychology (Concentration: Research Specialist), with a Minor in Philosophy. 
 
-My [husband](https://www.mrbarry.com/), a software developer, and I have been married for 8 years. We recently purchased our first home and have been enjoying living in the country with our 2 dogs, Harley and Rufus.
+Currently, I am working as a contract editor at Cactus Communications, editing manuscripts in psychology and psychosocial healthcare.
 
-Thank you for visiting my professional website! I am interested in all opportunities that present themselves to me, so feel free to reach out if you'd like!
+My [husband](https://www.mrbarry.com/), a software developer, and I have been married since 2011. We recently purchased our first home and have been enjoying living in the country with our 2 dogs, Harley and Rufus.
+
+Thank you for visiting my professional website! I am interested in all opportunities that present themselves to me (particularly those that are research related), so feel free to reach out if you'd like!
 
 <br>
 
@@ -11,9 +13,9 @@ Thank you for visiting my professional website! I am interested in all opportuni
 <br/>
 # CAREER HIGHLIGHTS
 
- - Peer reviewer for the Journal of Autism and Developmental Disorders
+ - Editorial board member for the Journal of Autism and Developmental Disorders (2020)
 
- - Published in the peer reviewed journal, Critical Social Work, as co-first author
+ - Published in the peer reviewed journal, Critical Social Work, as co-first author (2019)
 
  - Awarded Canadian Graduate Scholarship - Masters (CGS-M), valued at $17,500 (2019)
 
