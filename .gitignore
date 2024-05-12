@@ -4,3 +4,4 @@ firebase.json
 firebase-debug.log
 public/index.js
 .DS_Store
+public/dist

@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react';
 
 function WritingSamples (props) {
 	return (
@@ -24,7 +24,7 @@ function writingSample (sample, idx) {
 			<div className="sample-subtitle">{sample.subtitle}</div>
 		</a>
 	)
-}
+};
 
 
-export default WritingSamples
+export default WritingSamples;

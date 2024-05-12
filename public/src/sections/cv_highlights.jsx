@@ -1,4 +1,4 @@
-import React from "react"
+import React from 'react';
 
 function CvHighlights (props) {
   const flattened = flattenSections(props.sections)
